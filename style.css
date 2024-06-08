@@ -1,0 +1,43 @@
+#carouselExampleCaptions{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+   
+
+    
+
+}
+.title{
+
+        background-color: green;
+    color: azure;
+    align-items: center;
+    text-align: center;
+
+}
+.title1{
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    align-items: center;
+    text-align: center;
+     width: 500px;
+     transform: translate(-50%, -50%);
+     margin-left: 50%;
+     
+     border-radius: 25px;
+}
+
+.small_pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* adjust the height to your preference */
+    margin-left: 30%;
+    width: 500px;
+  }
+  
+  .small_pic img {
+    max-width: 100%;
+    height: auto;
+    margin-left: 30%;
+  }
